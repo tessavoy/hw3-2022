@@ -12,6 +12,11 @@ h1{
     text-align: center;
 }
 
+h2{
+    color: #0D0D0D;
+    font-size: 30px;
+}
+
 p{
     font-size: 24px;
     padding-top:10px;
@@ -32,10 +37,6 @@ div{
     border: 3px solid white;
 }
 
-h2{
-    color: #0D0D0D;
-    font-size: 30px;
-}
 
 
 .introduction{
